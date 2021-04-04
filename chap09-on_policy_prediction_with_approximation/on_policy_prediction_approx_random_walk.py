@@ -3,8 +3,6 @@ import pandas as pd
 import math
 from collections import deque
 
-from sklearn.metrics import mean_squared_error
-
 from tqdm import tqdm
 
 import matplotlib.pyplot as plt
@@ -304,8 +302,8 @@ class Agent:
                     t += 1
 
 
-            # Compute RMS error
-            rms_err = mean_squared_error(self._target_values, self.get_v_hat_all_states()[:,1], squared=False)
+            # Compute RMS error            
+            rms_err = np.sqrt(np.array((self._target_values - self.get_v_hat_all_states()[:,1]) ** 2).mean())
 
             self._error_hist.append(rms_err)
 
