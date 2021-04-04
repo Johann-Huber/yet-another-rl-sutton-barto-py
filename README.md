@@ -9,20 +9,21 @@ I encourage the interested reader to cross compare solutions as needed.
 ## Figures & examples
 
 ### Chapter 1 : Introduction
-* [Tic-tac-toe : Win rate vs random policy agent](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap01-Tictactoe_greedy_temporal_learning/figures/play_against_random_opponent_win_rate.png?token=AKN4L7LMY63BYFU2SY2Y3ETANHRQA)
-* [Tic-tac-toe : Impact of exploration rate on score](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap01-Tictactoe_greedy_temporal_learning/figures/score_wrt_exploration_rate.png?token=AKN4L7OFZJZXBYKHCHCBMM3ANHRQA)
-* [Tic-tac-toe : Self-play win rate](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap01-Tictactoe_greedy_temporal_learning/figures/self_play_win_rate.png?token=AKN4L7JZUOW3NVP6G4GDEPDANHRQE)
+* [Tic-tac-toe : Win rate vs random policy agent](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap01-Tictactoe_greedy_temporal_learning/figures/play_against_random_opponent_win_rate.png?token=AKN4L7JEGEPQKGFW6P5E6P3ANHTRI)
+* [Tic-tac-toe : Impact of exploration rate on score](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap01-Tictactoe_greedy_temporal_learning/figures/score_wrt_exploration_rate.png?token=AKN4L7P2HSEKESZO4SP4EA3ANHTRK)
+* [Tic-tac-toe : Self-play win rate](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap01-Tictactoe_greedy_temporal_learning/figures/self_play_win_rate.png?token=AKN4L7LMHLGPPF5YHCREHH3ANHTRM)
+
 
 
 ### Chapter 2 : Multi-armed Bandits
-* [Epsilon-greedy policy on a stationary task](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap02-bandit_problem/figures/rwds_epsilon_greedy_stationary.png?token=AKN4L7LHREX6XFSMIG3HXULANHRLM)
-* [Epsilon-greedy policy on a nonstationary task](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap02-bandit_problem/figures/rwds_epsilon_greedy_nonstationary.png?token=AKN4L7JDCFG2QB4WZ667KGLANHRF6)
-* [Impact of the step-size strategy on a nonstationary task](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap02-bandit_problem/figures/rwds_step_size_strategies_nonstationnary.png?token=AKN4L7M7BLDTMPTAFKRBDRLANHRLK)
+* [Epsilon-greedy policy on a stationary task](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap02-bandit_problem/figures/rwds_epsilon_greedy_stationary.png?token=AKN4L7MDSTL7BDZ55Z25ZKLANHTWY)
+* [Epsilon-greedy policy on a nonstationary task](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap02-bandit_problem/figures/rwds_epsilon_greedy_nonstationary.png?token=AKN4L7LPIR6KO6TGJYCIKU3ANHTWW)
+* [Impact of the step-size strategy on a nonstationary task](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap02-bandit_problem/figures/rwds_step_size_strategies_nonstationnary.png?token=AKN4L7JSTQKZYPRUXBTWC3TANHTW2)
 
 
 
 ### Chapter 3 : Finite Markov Decision Processes
-* []()
+* [GridWorld : Exact value function](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap03-finite_MDP/figures/gridworld_exact_value_function.png?token=AKN4L7OHZGQLYCHSBRGT53TANHTZK)
 
 
 ### Chapter 4 : Dynamic Programming
