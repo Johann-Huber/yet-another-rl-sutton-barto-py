@@ -9,7 +9,7 @@ I encourage the interested reader to cross compare solutions as needed.
 ## Figures & examples
 
 ### Chapter 1 : Introduction
-* [Tic-tac-toe : Win rate vs random policy agent](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap01-Tictactoe_greedy_temporal_learning/figures/play_against_random_opponent_win_rate.png?token=AKN4L7JEGEPQKGFW6P5E6P3ANHTRI)
+* [Tic-tac-toe : Win rate vs random policy agent](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap01-Tictactoe_greedy_temporal_learning/figures/play_against_random_opponent_win_rate.png)
 * [Tic-tac-toe : Impact of exploration rate on score](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap01-Tictactoe_greedy_temporal_learning/figures/score_wrt_exploration_rate.png?token=AKN4L7P2HSEKESZO4SP4EA3ANHTRK)
 * [Tic-tac-toe : Self-play win rate](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap01-Tictactoe_greedy_temporal_learning/figures/self_play_win_rate.png?token=AKN4L7LMHLGPPF5YHCREHH3ANHTRM)
 
@@ -26,7 +26,7 @@ I encourage the interested reader to cross compare solutions as needed.
 
 
 ### Chapter 4 : Dynamic Programming
-* []()
+* [relative path](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap04-dynamic_programming/figures/policy_opti_book_case_subplots.png)
 
 
 ### Chapter 5 : Monte Carlo Methods
