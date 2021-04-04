@@ -16,7 +16,7 @@ I encourage the interested reader to cross compare solutions as needed.
 
 ### Chapter 2 : Multi-armed Bandits
 * [Epsilon-greedy policy on a stationary task](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap02-bandit_problem/figures/rwds_epsilon_greedy_stationary.png?token=AKN4L7PIMFA5I4QGWI6FLELANHQCG)
-* [Epsilon-greedy policy on a nonstationary task](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap02-bandit_problem/figures/rwds_epsilon_greedy_nonstationary.png?token=AKN4L7KMUFSIS37VX3VIJMDANHQCE)
+* [Epsilon-greedy policy on a nonstationary task](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap02-bandit_problem/figures/rwds_epsilon_greedy_nonstationary.png?token=AKN4L7JDCFG2QB4WZ667KGLANHRF6)
 * [Impact of the step-size strategy on a nonstationary task](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap02-bandit_problem/figures/rwds_step_size_strategies_nonstationnary.png?token=AKN4L7PO34JQN4EDK3DHWIDANHQCI)
 
 
