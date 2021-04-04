@@ -21,7 +21,6 @@ I encourage the interested reader to cross compare solutions as needed.
 * [Impact of the step-size strategy on a nonstationary task](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap02-bandit_problem/figures/rwds_step_size_strategies_nonstationnary.png?token=AKN4L7JSTQKZYPRUXBTWC3TANHTW2)
 
 
-
 ### Chapter 3 : Finite Markov Decision Processes
 * [GridWorld : Exact value function](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap03-finite_MDP/figures/gridworld_exact_value_function.png?token=AKN4L7OHZGQLYCHSBRGT53TANHTZK)
 
