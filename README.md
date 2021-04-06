@@ -99,7 +99,9 @@ The great [reinforcement-learning-an-introduction](https://github.com/ShangtongZ
 
 ## Additional content
 
-TODO: Add video
+![blocking_maze_mp4](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/blob/master/extras/blocking_maze_solved_video_huber.mp4)
+
+
 
 
 ## Requirements
