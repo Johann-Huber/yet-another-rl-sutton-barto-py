@@ -56,45 +56,45 @@ The great [reinforcement-learning-an-introduction](https://github.com/ShangtongZ
 
 
 ### Chapter 8 : Planning and Learning with Tabular Methods
-* [Simple Maze : Learning curves comparison for Dyna-Q agents varying in their number of planning steps](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap08_planning_and_learning_tabular_methods/figures/steps_per_episodes_wrt_planning.png)
+* [\[Simple Maze\] Learning curves comparison for Dyna-Q agents varying in their number of planning steps](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap08_planning_and_learning_tabular_methods/figures/steps_per_episodes_wrt_planning.png)
 * Simple Maze : Policy found - [nonplanning Dyna-Q agent](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap08_planning_and_learning_tabular_methods/figures/without_planning_n0_episode2.png?token=AKN4L7K7KHHRIGD6H5VEKCLANSFHK), [planning Dyna-Q agent](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap08_planning_and_learning_tabular_methods/figures/without_planning_n0_episode2.png?token=AKN4L7K7KHHRIGD6H5VEKCLANSFHK)
-* [Blocking Maze : Average performance - Dyna-Q vs Dyna-Q+](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap08_planning_and_learning_tabular_methods/figures/dyna_q_obstacle_shift_adaptation.png), [
+* [\[Blocking Maze\] Average performance : Dyna-Q vs Dyna-Q+](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap08_planning_and_learning_tabular_methods/figures/dyna_q_obstacle_shift_adaptation.png), [
 	* **Video** : [Solving Blocking Maze](https://www.youtube.com/watch?v=99SmY9es3ow)
-* [Shortcut Maze : Average performance - Dyna-Q vs Dyna-Q+](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap08_planning_and_learning_tabular_methods/figures/dyna_q_shortcut_opening_adaptation.png)
-* [Large-sized Gridworlds : Updates until optimal solution - Dyna-Q vs Prioritized sweeping](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap08_planning_and_learning_tabular_methods/figures/prioritized_sweeping_on_mazes.png)
-* [1000-states, various branching factors: Comparison of relative efficiency of updates - simulated on-policy trajectories vs uniformly distributed](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap08_planning_and_learning_tabular_methods/figures/trajectory_sampling_8_8_up.png)
-* [10000-states, various branching factors: Comparison of relative efficiency of updates - simulated on-policy trajectories vs uniformly distributed](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap08_planning_and_learning_tabular_methods/figures/trajectory_sampling_8_8_down.png)
+* [\[Shortcut Maze\] Average performance : Dyna-Q vs Dyna-Q+](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap08_planning_and_learning_tabular_methods/figures/dyna_q_shortcut_opening_adaptation.png)
+* [\[Large-sized Gridworlds\] Updates until optimal solution : Dyna-Q vs Prioritized sweeping](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap08_planning_and_learning_tabular_methods/figures/prioritized_sweeping_on_mazes.png)
+* [\[1000-states, various branching factors\] Comparison of relative efficiency of updates : simulated on-policy trajectories vs uniformly distributed](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap08_planning_and_learning_tabular_methods/figures/trajectory_sampling_8_8_up.png)
+* [\[10000-states, various branching factors\] Comparison of relative efficiency of updates : simulated on-policy trajectories vs uniformly distributed](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap08_planning_and_learning_tabular_methods/figures/trajectory_sampling_8_8_down.png)
 
 
 ### Chapter 9 : On-policy Prediction with Approximation
-* [1000-states RandomWalk : Function approximation by state aggregation, gradient Monte Carlo algorithm](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap09-on_policy_prediction_with_approximation/figures/gradient_mc_state_aggreg_random_walk.png)
-* [1000-states RandomWalk : Function approximation by state aggregation, semi-gradient TD algorithm](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap09-on_policy_prediction_with_approximation/figures/semi_grad_td0_state_aggreg_random_walk.png)
+* [\[1000-states RandomWalk\] Function approximation by state aggregation, gradient Monte Carlo algorithm](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap09-on_policy_prediction_with_approximation/figures/gradient_mc_state_aggreg_random_walk.png)
+* [\[1000-states RandomWalk\] Function approximation by state aggregation, semi-gradient TD algorithm](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap09-on_policy_prediction_with_approximation/figures/semi_grad_td0_state_aggreg_random_walk.png)
 
 
 ### Chapter 10 : On-policy Control with Approximation
-* [Mountain Car : Cost-to-go function learned](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap10-on_policy_control_with_approximation/figures/mountain_car_semi_gradient_sarsa_3d_plots_(ticks2correct).png)
-* [Mountain Car : Learning curves for the semi-gradient Sarsa method with tile coding](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap10-on_policy_control_with_approximation/figures/mountain_car_semi_gradient_sarsa.png)
-* [Mountain Car : Performance of one-step vs 8-step semi-gradient Sarsa](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap10-on_policy_control_with_approximation/figures/mountain_car_semi_gradient_sarsa_n_steps.png)
-* [Access-Control Queuing Task : Policy and value function found by differential semi-gradient one-step Sarsa](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap10-on_policy_control_with_approximation/figures/access_control_queuing_task_policy_q_value.png)
+* [\[Mountain Car\] Cost-to-go function learned](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap10-on_policy_control_with_approximation/figures/mountain_car_semi_gradient_sarsa_3d_plots_(ticks2correct).png)
+* [\[Mountain Car\] Learning curves for the semi-gradient Sarsa method with tile coding](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap10-on_policy_control_with_approximation/figures/mountain_car_semi_gradient_sarsa.png)
+* [\[Mountain Car\] Performance of one-step vs 8-step semi-gradient Sarsa](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap10-on_policy_control_with_approximation/figures/mountain_car_semi_gradient_sarsa_n_steps.png)
+* [\[Access-Control Queuing Task\] Policy and value function found by differential semi-gradient one-step Sarsa](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap10-on_policy_control_with_approximation/figures/access_control_queuing_task_policy_q_value.png)
 
 
 ### Chapter 11 : Off-policy Methods with Approximation
-* Baird's counterexample : Demonstration of instability - [Semi-gradient Off-policy TD](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap11-off_policy_methods_with_approximation/figures/baird_counterexemple_divergent_weights_TD_method.png), [Semi-gradient DP](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap11-off_policy_methods_with_approximation/figures/baird_counterexemple_divergent_weights_DP_method.png)
+* \[Baird's counterexample\] Demonstration of instability : [Semi-gradient Off-policy TD](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap11-off_policy_methods_with_approximation/figures/baird_counterexemple_divergent_weights_TD_method.png), [Semi-gradient DP](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap11-off_policy_methods_with_approximation/figures/baird_counterexemple_divergent_weights_DP_method.png)
 
 
 ### Chapter 12 : Eligibility Traces
-* [19-state Random Walk : Performance of the Off-line lambda-return algorithm](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap12-eligibility_traces/figures/offline_lambda_return_random_walk.png)
-* [19-state Random Walk : Performance of TD(lambda)](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap12-eligibility_traces/figures/td_lambda_random_walk.png)
-* [19-state Random Walk : Performance of True Online TD(lambda)](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap12-eligibility_traces/figures/true_online_td_lambda_random_walk_alpha_range.png)
-* [Mountain Car : Early performance of Sarsa(lambda) with replacing trace](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap12-eligibility_traces/figures/mountain_car_sarsa_lambda_with_replacing_traces.png)
-* [Mountain Car : Summary comparison of Sarsa(lambda)](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap12-eligibility_traces/figures/mountain_car_sarsa_lambda_algo_compare.png)
-* [Mountain Car, Random Walk, Puddle World, Cart and Pole : The effect of lambda on reinforcement learning performance](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap12-eligibility_traces/figures/lambda_effect_on_rl.png)
+* [\[19-state Random Walk\] Performance of the Off-line lambda-return algorithm](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap12-eligibility_traces/figures/offline_lambda_return_random_walk.png)
+* [\[19-state Random Walk\] Performance of TD(lambda)](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap12-eligibility_traces/figures/td_lambda_random_walk.png)
+* [\[19-state Random Walk\] Performance of True Online TD(lambda)](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap12-eligibility_traces/figures/true_online_td_lambda_random_walk_alpha_range.png)
+* [\[Mountain Car\] Early performance of Sarsa(lambda) with replacing trace](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap12-eligibility_traces/figures/mountain_car_sarsa_lambda_with_replacing_traces.png)
+* [\[Mountain Car\] Summary comparison of Sarsa(lambda)](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap12-eligibility_traces/figures/mountain_car_sarsa_lambda_algo_compare.png)
+* [\[Mountain Car\] Random Walk, Puddle World, Cart and Pole : The effect of lambda on reinforcement learning performance](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap12-eligibility_traces/figures/lambda_effect_on_rl.png)
 
 
 ### Chapter 13 : Policy Gradient Methods
-* [Short-corridor GridWorld: State-value distribution](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap13-policy_gradient_methods/figures/short_corridor_switched_actions_state_values_distrib.png)
-* [Short-corridor GridWorld : REINFORCE with different step sizes](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap13-policy_gradient_methods/figures/reinforce_mc_reward_curves.png)
-* [Short-corridor GridWorld : Effect of baseline on REINFORCE learning curve](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap13-policy_gradient_methods/figures/reinforce_mc_baseline_reward_curves.png)
+* [\[Short-corridor GridWorld\] State-value distribution](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap13-policy_gradient_methods/figures/short_corridor_switched_actions_state_values_distrib.png)
+* [\[Short-corridor GridWorld\] REINFORCE with different step sizes](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap13-policy_gradient_methods/figures/reinforce_mc_reward_curves.png)
+* [\[Short-corridor GridWorld\] Effect of baseline on REINFORCE learning curve](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap13-policy_gradient_methods/figures/reinforce_mc_baseline_reward_curves.png)
 
 
 
