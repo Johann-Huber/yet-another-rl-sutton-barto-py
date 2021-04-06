@@ -58,7 +58,8 @@ The great [reinforcement-learning-an-introduction](https://github.com/ShangtongZ
 ### Chapter 8 : Planning and Learning with Tabular Methods
 * [Simple Maze : Learning curves comparison for Dyna-Q agents varying in their number of planning steps](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap08_planning_and_learning_tabular_methods/figures/steps_per_episodes_wrt_planning.png)
 * Simple Maze : Policy found - [nonplanning Dyna-Q agent](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap08_planning_and_learning_tabular_methods/figures/without_planning_n0_episode2.png?token=AKN4L7K7KHHRIGD6H5VEKCLANSFHK), [planning Dyna-Q agent](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap08_planning_and_learning_tabular_methods/figures/without_planning_n0_episode2.png?token=AKN4L7K7KHHRIGD6H5VEKCLANSFHK)
-* [Blocking Maze : Average performance - Dyna-Q vs Dyna-Q+](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap08_planning_and_learning_tabular_methods/figures/dyna_q_obstacle_shift_adaptation.png)
+* [Blocking Maze : Average performance - Dyna-Q vs Dyna-Q+](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap08_planning_and_learning_tabular_methods/figures/dyna_q_obstacle_shift_adaptation.png), [
+	* Video : [Solving Blocking Maze](https://www.youtube.com/watch?v=99SmY9es3ow)
 * [Shortcut Maze : Average performance - Dyna-Q vs Dyna-Q+](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap08_planning_and_learning_tabular_methods/figures/dyna_q_shortcut_opening_adaptation.png)
 * [Large-sized Gridworlds : Updates until optimal solution - Dyna-Q vs Prioritized sweeping](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap08_planning_and_learning_tabular_methods/figures/prioritized_sweeping_on_mazes.png)
 * [1000-states, various branching factors: Comparison of relative efficiency of updates - simulated on-policy trajectories vs uniformly distributed](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap08_planning_and_learning_tabular_methods/figures/trajectory_sampling_8_8_up.png)
@@ -94,13 +95,6 @@ The great [reinforcement-learning-an-introduction](https://github.com/ShangtongZ
 * [Short-corridor GridWorld: State-value distribution](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap13-policy_gradient_methods/figures/short_corridor_switched_actions_state_values_distrib.png)
 * [Short-corridor GridWorld : REINFORCE with different step sizes](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap13-policy_gradient_methods/figures/reinforce_mc_reward_curves.png)
 * [Short-corridor GridWorld : Effect of baseline on REINFORCE learning curve](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap13-policy_gradient_methods/figures/reinforce_mc_baseline_reward_curves.png)
-
-
-
-## Additional content
-
-![blocking_maze_mp4](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/blob/master/extras/blocking_maze_solved_video_huber.mp4)
-
 
 
 
