@@ -43,8 +43,8 @@ The great ["reinforcement-learning-an-introduction" repo](https://github.com/Sha
 
 
 ### Chapter 6 : Temporal-Difference Learning
-* \[Random Walk\] [TD(0) estimated values](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap06-temporal_difference_learning/figures/random_walk_td_values.png), [learning curves for various values of alpha](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap06-temporal_difference_learning/figures/random_walk_rms_errors.png)
-* \[Random Walk\] [TD(0) vs constant-alpha MC under batch training](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap06-temporal_difference_learning/figures/random_walk_batch_training.png)
+* \[Random Walk\] [TD(0) estimated values](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap06-temporal_difference_learning/figures/random_walk_td_values.png), [learning curves for various values of α](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap06-temporal_difference_learning/figures/random_walk_rms_errors.png)
+* \[Random Walk\] [TD(0) vs constant-α MC under batch training](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap06-temporal_difference_learning/figures/random_walk_batch_training.png)
 * \[Windy GridWorld\] [Cumulated number of episodes (4 actions)](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap06-temporal_difference_learning/figures/windy_gridworld_4actions_cumstep_episodes.png), [(8 actions)](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap06-temporal_difference_learning/figures/windy_gridworld_8actions_cumstep_episodes.png), [(9 actions)](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap06-temporal_difference_learning/figures/windy_gridworld_9actions_cumstep_episodes.png), [optimal trajectory (ex 6.10)](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap06-temporal_difference_learning/figures/windy_gridworld_optimal_trajectory.png)
 * \[Cliff Walking\] Q-learning vs Sarsa : [found trajectories](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap06-temporal_difference_learning/figures/cliff_walking_trajectories.png), [cumulated rewards w.r.t. episodes](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap06-temporal_difference_learning/figures/cliff_walking_rewards.png)
 * \[Simple episodic MDP\] [Q-learning vs Double Q-learning](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap06-temporal_difference_learning/figures/maximization_bias_double_learning.png)
@@ -83,12 +83,12 @@ The great ["reinforcement-learning-an-introduction" repo](https://github.com/Sha
 
 
 ### Chapter 12 : Eligibility Traces
-* \[19-state Random Walk\] [Performance of the Off-line lambda-return algorithm](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap12-eligibility_traces/figures/offline_lambda_return_random_walk.png)
-* \[19-state Random Walk\] [Performance of TD(lambda)](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap12-eligibility_traces/figures/td_lambda_random_walk.png)
-* \[19-state Random Walk\] [Performance of True Online TD(lambda)](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap12-eligibility_traces/figures/true_online_td_lambda_random_walk_alpha_range.png)
-* \[Mountain Car\] [Early performance of Sarsa(lambda) with replacing trace](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap12-eligibility_traces/figures/mountain_car_sarsa_lambda_with_replacing_traces.png)
-* \[Mountain Car\] [Summary comparison of Sarsa(lambda)](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap12-eligibility_traces/figures/mountain_car_sarsa_lambda_algo_compare.png)
-* \[Mountain Car\] [Random Walk, Puddle World, Cart and Pole : The effect of lambda on reinforcement learning performance](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap12-eligibility_traces/figures/lambda_effect_on_rl.png)
+* \[19-state Random Walk\] [Performance of the Off-line λ-return algorithm](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap12-eligibility_traces/figures/offline_lambda_return_random_walk.png)
+* \[19-state Random Walk\] [Performance of TD(λ)](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap12-eligibility_traces/figures/td_lambda_random_walk.png)
+* \[19-state Random Walk\] [Performance of True Online TD(λ)](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap12-eligibility_traces/figures/true_online_td_lambda_random_walk_alpha_range.png)
+* \[Mountain Car\] [Early performance of Sarsa(λ) with replacing trace](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap12-eligibility_traces/figures/mountain_car_sarsa_lambda_with_replacing_traces.png)
+* \[Mountain Car\] [Summary comparison of Sarsa(λ)](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap12-eligibility_traces/figures/mountain_car_sarsa_lambda_algo_compare.png)
+* \[Mountain Car\] [Random Walk, Puddle World, Cart and Pole : The effect of λ on reinforcement learning performance](https://raw.githubusercontent.com/Johann-Huber/yet-another-rl-sutton-barto-py/master/chap12-eligibility_traces/figures/lambda_effect_on_rl.png)
 
 
 ### Chapter 13 : Policy Gradient Methods
